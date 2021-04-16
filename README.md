@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 🍕 places you can find me
+<a href="https://linkedin.com/in/pranaychandekar" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a>
 
 
 ![](https://komarev.com/ghpvc/?username=pranaychandekar&style=plastic) <br>
